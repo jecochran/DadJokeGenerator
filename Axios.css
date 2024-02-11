@@ -1,0 +1,17 @@
+body {
+    background-image: url(Cool-Pinnaple.jpg);
+    background-size: cover;
+    background-position: center -3750px;
+}
+
+li {
+    background-color: #4f5b66;
+    color: white;
+    width: 500px;
+    border-radius: 10px;
+    margin: 5px;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
